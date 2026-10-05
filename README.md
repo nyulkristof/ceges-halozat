@@ -1,2 +1,2 @@
-# ceges-halozat
-Céges hálózat tervezése és dokumentálása.
+# Agro-Store
+
